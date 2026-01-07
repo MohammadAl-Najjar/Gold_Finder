@@ -1,0 +1,25 @@
+{
+  "name": "gold_digger",
+  "version": "1.0.0",
+  "description": "A platform to buy gold with current updating prices",
+  "homepage": "https://github.com/MohammadAl-Najjar/Gold_digger#readme",
+  "bugs": {
+    "url": "https://github.com/MohammadAl-Najjar/Gold_digger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadAl-Najjar/Gold_digger.git"
+  },
+  "license": "ISC",
+  "author": "Mohammad Alnajjar",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
