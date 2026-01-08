@@ -1,6 +1,7 @@
 import path from 'node:path'
 import { changeGoldPrice } from '../utils/goldPriceChanger.js'
 import { getGoldData } from '../utils/getGoldData.js'
+import { invest } from '../events/investEvent.js'
 
 export async function handleGetRequest(req, res) {
     if (req.url == '/api/gold'){
@@ -21,6 +22,8 @@ export async function handleGetRequest(req, res) {
     }
 }
 
-export function handlePostRequest() {
-
+export async function handlePostRequest(req, res) {
+    if (req.url == '/api/addPurchase'){
+        invest.emit('invest', {req,res})
+    }
 }

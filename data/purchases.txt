@@ -1,0 +1,6 @@
+Thu Jan 08 2026 21:44:55 GMT+0300 (GMT+03:00), amount paid: $111, price per Oz: $3305, gold sold: 0.03358547655068079 Oz
+Thu Jan 08 2026 21:45:03 GMT+0300 (GMT+03:00), amount paid: $100, price per Oz: $3345, gold sold: 0.029895366218236172 Oz
+Thu Jan 08 2026 22:02:04 GMT+0300 (GMT+03:00), amount paid: $100, price per Oz: $4319, gold sold: 0.0231535077564251 Oz
+Thu Jan 08 2026 22:02:50 GMT+0300 (GMT+03:00), amount paid: $1111111, price per Oz: $4620, gold sold: 240.50021645021644 Oz
+Thu Jan 08 2026 22:04:12 GMT+0300 (GMT+03:00), amount paid: $100, price per Oz: $4986, gold sold: 0.020056157240272765 Oz
+Thu Jan 08 2026 22:04:45 GMT+0300 (GMT+03:00), amount paid: $100, price per Oz: $5069, gold sold: 0.019727756954034326 Oz

@@ -13,7 +13,7 @@ const server = http.createServer(async (req, res) => {
             await handleGetRequest(req, res)
         }
         else if (req.method == 'POST') {
-
+            await handlePostRequest(req, res)
         }
     }
 
