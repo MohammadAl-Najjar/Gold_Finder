@@ -1,14 +1,14 @@
 {
-  "name": "gold_digger",
+  "name": "gold_finder",
   "version": "1.0.0",
   "description": "A platform to buy gold with current updating prices",
-  "homepage": "https://github.com/MohammadAl-Najjar/Gold_digger#readme",
+  "homepage": "https://github.com/MohammadAl-Najjar/Gold_Finder#readme",
   "bugs": {
-    "url": "https://github.com/MohammadAl-Najjar/Gold_digger/issues"
+    "url": "https://github.com/MohammadAl-Najjar/Gold_Finder/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MohammadAl-Najjar/Gold_digger.git"
+    "url": "git+https://github.com/MohammadAl-Najjar/Gold_Finder.git"
   },
   "license": "ISC",
   "author": "Mohammad Alnajjar",
